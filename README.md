@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23049337/226212853-5b96a6ff-5a41-4b1c-9262-38666e43b491.png)
+![image](https://user-images.githubusercontent.com/23049337/234786569-0c2e4843-65fb-4867-8460-f4eb5fc110a7.png)
 
  
 Kubernetes in Docker with Terraform
@@ -7,10 +7,10 @@ Kubernetes in Docker with Terraform
 
 🎯 About
 
-OpenMetadata Unlock the value of data assets with an end-to-end metadata platform that includes data discovery, governance, data quality, observability, and people collaborationd.
+Clusterpedia can synchronize resources with multiple clusters and provide more powerful search features on the basis of compatibility with Kubernetes OpenAPI to help you effectively get any multi-cluster resource that you are looking for in a quick and easy way
 🚀 Technologies
 
-OpenMetadata depends on following components to build a metadata platform
+Automatic synchronization of clusters managed by multi-cloud platforms
 
     JsonSchemas for defining Metadata Schemas
     Dropwizard/Jetty for REST APIs
